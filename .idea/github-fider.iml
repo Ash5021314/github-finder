@@ -9,5 +9,10 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="learn-react" />
+    <orderEntry type="module" module-name="ash-tube" />
+    <orderEntry type="module" module-name="validation" />
+    <orderEntry type="module" module-name="my-first-reacr-app" />
+    <orderEntry type="module" module-name="my-first-reacr-app" />
+    <orderEntry type="module" module-name="my-first-reacr-app" />
   </component>
 </module>

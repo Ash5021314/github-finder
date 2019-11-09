@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ash-tube/.idea/ash-tube.iml" filepath="$PROJECT_DIR$/../ash-tube/.idea/ash-tube.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/github-fider.iml" filepath="$PROJECT_DIR$/.idea/github-fider.iml" />
       <module fileurl="file://$USER_HOME$/Documents/learn-react/.idea/learn-react.iml" filepath="$USER_HOME$/Documents/learn-react/.idea/learn-react.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/learn-react/my-first-reacr-app/.idea/my-first-reacr-app.iml" filepath="$USER_HOME$/Documents/learn-react/my-first-reacr-app/.idea/my-first-reacr-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../validation/.idea/validation.iml" filepath="$PROJECT_DIR$/../validation/.idea/validation.iml" />
     </modules>
   </component>
 </project>
