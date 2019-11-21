@@ -1,15 +1,18 @@
-import React from 'react';
+import React from 'react'
+import {Link} from 'react-router-dom'
 
-function UserItem({user} ) {
+
+function UserItem({user}) {
   return (
     <div className='card text-center'>
-     <img src = {user.avatar_url} className='round-img' style={{width:'60px'}} alt={user.name}/>
+      <img src={user.avatar_url} className='round-img' style={{width: '60px'}} alt={user.name}/>
       <h3>{user.login}</h3>
       <div>
-        <a href={user.html_url}>More</a>
+        {/*<a href={user.html_url}>More</a>*/}
+        <Link to={`/user/${user.login}`}>More</Link>
       </div>
     </div>
-  );
+  )
 }
 
-export default UserItem;
+export default UserItem
